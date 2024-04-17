@@ -40,6 +40,10 @@ This section outlines the steps required to set up and run the project on a loca
 1. Connect an Android device or emulator to your development machine.
 2. Click the "Run" button in Android Studio.
 
+**Preview:**   
+
+[Add Screeenshots or demo Link ]
+
 ### Project Structure
 
 The project follows a standard Android Studio structure:

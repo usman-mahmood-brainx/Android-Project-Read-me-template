@@ -52,7 +52,7 @@ The project follows a standard Android Studio structure:
 * **build.gradle:** Defines project-wide build configurations and dependencies.
 * **gradle:** Stores Gradle wrapper files used for project builds.
 
-### Dependencies
+### Dependencies / External Api's
 
 The project uses the following external libraries:
 

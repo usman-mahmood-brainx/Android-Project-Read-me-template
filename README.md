@@ -77,7 +77,7 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 ### Testing
 [Mention Testing Tools,Testing frameworks and methodologies]
-We employ a combination of unit tests and UI tests to ensure the quality and stability of the app. Unit tests are written using JUnit to verify the functionality of individual code units. Additionally, UI tests written with Espresso help us automate user interaction and test the app's behavior from a user's perspective.
+Example : We employ a combination of unit tests and UI tests to ensure the quality and stability of the app. Unit tests are written using JUnit to verify the functionality of individual code units. Additionally, UI tests written with Espresso help us automate user interaction and test the app's behavior from a user's perspective.
 
 ### License
 

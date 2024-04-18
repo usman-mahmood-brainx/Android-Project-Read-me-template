@@ -64,7 +64,7 @@ The project uses the following external libraries:
 * [Mention New Objectives/Goals/Imporvements].
 * Example :
 * Regularly update and maintain extensions and dependencies to ensure compatibility and security.
-* Implement feature flags for controlled rollout of new features and experiments.
+* Set up continuous integration and deployment pipelines for automated builds and releases.
 
 ### Contribution Guidelines
 

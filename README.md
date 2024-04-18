@@ -59,6 +59,13 @@ The project uses the following external libraries:
 * **[Library Name 1] ([Version]) ([Link to Documentation])** - [Brief description of what the library does]
 * **[Library Name 2] ([Version]) ([Link to Documentation])** - [Brief description of what the library does]
 
+### To Do's
+
+* [Mention New Objectives/Goals/Imporvements].
+* Example :
+* Regularly update and maintain extensions and dependencies to ensure compatibility and security.
+* Implement feature flags for controlled rollout of new features and experiments.
+
 ### Contribution Guidelines
 
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:

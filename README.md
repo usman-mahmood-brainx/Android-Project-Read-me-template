@@ -70,22 +70,9 @@ The project uses the following external libraries:
 * Regularly update and maintain extensions and dependencies to ensure compatibility and security.
 * Set up continuous integration and deployment pipelines for automated builds and releases.
 
-### Contribution Guidelines
-
-We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
-
-* Fork the repository and create a pull request for your changes.
-* Ensure your code adheres to the project's coding style (refer to internal coding standards document).
-* Write unit tests for your changes.
-* Include clear documentation for any new features or functionalities.
-
 ### Testing
 [Mention Testing Tools,Testing frameworks and methodologies]
 Example : We employ a combination of unit tests and UI tests to ensure the quality and stability of the app. Unit tests are written using JUnit to verify the functionality of individual code units. Additionally, UI tests written with Espresso help us automate user interaction and test the app's behavior from a user's perspective.
-
-### License
-
-This project is licensed under the Apache License 2.0. See the LICENSE file for more details.
 
 ### Support
 

@@ -1,6 +1,6 @@
 ##  My Awesome Android App
 
-This README provides an overview of the My Awesome Android App project, including setup instructions, contribution guidelines, and more.
+[Mention Small Intro] This README provides an overview of the My Awesome Android App project, including setup instructions, contribution guidelines, and more.
 
 ### Project Description
 
@@ -39,6 +39,10 @@ This section outlines the steps required to set up and run the project on a loca
 
 1. Connect an Android device or emulator to your development machine.
 2. Click the "Run" button in Android Studio.
+
+**Common Issues:**
+
+* [Mention Common Issues/Errors and how to resolve them].
 
 ### Preview
 
